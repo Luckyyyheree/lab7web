@@ -32,6 +32,3 @@ Repository ini berisi *contoh lengkap dasar-dasar PHP* dalam file HTML mandiri (
 
 > Semua file *bisa langsung dibuka dan diedit* — tidak perlu konfigurasi tambahan.
 
----
-
-## Struktur Folder
